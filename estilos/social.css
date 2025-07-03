@@ -15,6 +15,7 @@
 img {
     width: 100vw;
 }
+
 a {
     display: block;
     background-color: darkred;
@@ -26,5 +27,5 @@ a {
 }
 
 a:hover {
-    background-color: red;
+    background-color: red; 
 }
